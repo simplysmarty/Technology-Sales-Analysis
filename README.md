@@ -78,7 +78,7 @@ Specifically, the business could not answer:
 
 ## 📊 Dashboard Preview
 
-![Technology Sales Dashboard](SALES_DASHBOARD.png)
+![Technology Sales Analysis](SALES_DASHBOARD.png)
 
 ### Dashboard Components
 
