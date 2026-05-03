@@ -78,7 +78,7 @@ Specifically, the business could not answer:
 
 ## 📊 Dashboard Preview
 
-![Technology Sales Analysis](https://github.com/simplysmarty/Technology-Sales-Analysis/blob/main/SALES%20DASHBOARD.png?raw=true)]
+![Technology Sales Analysis](https://github.com/simplysmarty/Technology-Sales-Analysis/blob/main/SALES%20DASHBOARD.png?raw=true)
 ### Dashboard Components
 
 | Visual | Description |
@@ -167,7 +167,6 @@ Orders grew 35.9% year over year. With 59% of customers on Standard Class, any l
 - Conditional Formatting — YoY Arrow Indicators (Green ▲ / Red ▼)
 - Dynamic Slicers — Year, Customer Segment
 - Charts — Line, Clustered Bar, Lollipop, Donut, Filled Map
-- VBA — Reset All Slicers Button
 
 ---
 
@@ -177,8 +176,8 @@ Orders grew 35.9% year over year. With 59% of customers on Standard Class, any l
 
 The Technology Sales Dashboard transforms 1,847 rows of raw transactional data into a clear, interactive view of business performance. The analysis reveals a business that is growing strongly — but one where the growth is uneven. Copiers are underutilised, Machines are underperforming, and New York City is carrying a disproportionate share of revenue.
 
-The data does not make decisions. But it removes every excuse for making bad ones.
+The data does not make decisions but it removes every excuse for making bad ones.
 
 ---
 
-*Analysed by: Anuoluwapo Fasanya | Data Analytics Portfolio Project | 2024*
+*Analysed by: Segun Fasanya | Data Analytics Portfolio Project | 2026*
