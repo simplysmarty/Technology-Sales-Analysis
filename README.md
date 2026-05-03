@@ -78,7 +78,7 @@ Specifically, the business could not answer:
 
 ## 📊 Dashboard Preview
 
-![Technology Sales Dashboard][(https://github.com/simplysmarty/Technology-Sales-Analysis/blob/main/SALES%20DASHBOARD.png?raw=true)]
+![Technology Sales Analysis](https://github.com/simplysmarty/Technology-Sales-Analysis/blob/main/SALES%20DASHBOARD.png?raw=true)]
 ### Dashboard Components
 
 | Visual | Description |
